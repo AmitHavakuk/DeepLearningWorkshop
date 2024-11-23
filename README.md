@@ -1,14 +1,13 @@
 ReadMe
+Creators: Amit Havakuk and Yaniv Yadgar
 Demos:
 
 Image Verification (our main goal) demo:
 
-<img src="/preview/verification_prev_1.png" alt="Description" width="200"> <img src="/preview/verification_prev_2.png" alt="Description" width="200">
+<img src="/preview/verification_prev_1.png" alt="Description" width="200", height="200"> <img src="/preview/verification_prev_2.png" alt="Description" width="200", height="200">
 
 Image Classification demo:
-<img src="/preview/classification_prev1.png" alt="Description" width="200"> <img src="/preview/classification_prev2.png" alt="Description" width="200">
-
-
+<img src="/preview/classification_prev1.png" alt="Description" width="200", height="200"> <img src="/preview/classification_prev2.png" alt="Description" width="200", height="200">
 
 
 To run our code, you need to pip install the following modules:
