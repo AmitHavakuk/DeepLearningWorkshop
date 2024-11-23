@@ -4,6 +4,7 @@ Creators: Amit Havakuk and Yaniv Yadgar
 
 Demos:
 We have provided you with a demo folder to play around with.
+Coincidentaly all of our examples use sunglasses3 from additions, note there are more sunglasses options and even masks (see additions folder).
 
 Image Verification (our main goal) demo:
 
