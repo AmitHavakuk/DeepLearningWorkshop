@@ -2,9 +2,9 @@ ReadMe
 Demo:
 
 
+![Alt text](/preview/verification_prev1.png) ![Alt text](/preview/verification_prev2.png)
 
-
-
+![Alt text](/preview/classification_prev1.png) ![Alt text](/preview/classification_prev2.png)
 
 
 
