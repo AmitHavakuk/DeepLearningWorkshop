@@ -16,16 +16,27 @@ Image Classification demo:
 To run our code, you need to pip install the following modules:
 
 We used python 3.10 64x and the following versions (which we recommend to use):
+
 customtkinter==5.2.2
+
 dlib==19.24.6
+
 matplotlib==3.9.2
+
 numpy==1.26.3
+
 opencv_python==4.10.0.84
+
 Pillow==10.2.0
+
 pytorch_metric_learning==2.7.0
+
 scikit_learn==1.5.2
+
 seaborn==0.13.2
+
 torch==2.5.1+cu124
+
 torchvision==0.20.1+cu124
 
 
