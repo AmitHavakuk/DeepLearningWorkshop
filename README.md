@@ -3,11 +3,10 @@ Demos:
 
 Image Verification (our main goal) demo:
 
-<img src="/preview/verification_prev_1.png" alt="Description" width="200">
-![Alt text](/preview/verification_prev_1.png) ![Alt text](/preview/verification_prev_2.png)
+<img src="/preview/verification_prev_1.png" alt="Description" width="200"> <img src="/preview/verification_prev_2.png" alt="Description" width="200">
 
 Image Classification demo:
-![Alt text](/preview/classification_prev1.png) ![Alt text](/preview/classification_prev2.png)
+<img src="/preview/classification_prev1.png" alt="Description" width="200"> <img src="/preview/classification_prev2.png" alt="Description" width="200">
 
 
 
