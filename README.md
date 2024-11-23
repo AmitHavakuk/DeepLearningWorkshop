@@ -1,9 +1,10 @@
 ReadMe
-Demo:
+Demos:
 
+Image Verification (our main goal) demo:
+![Alt text](/preview/verification_prev_1.png) ![Alt text](/preview/verification_prev_2.png)
 
-![Alt text](/preview/verification_prev1.png) ![Alt text](/preview/verification_prev2.png)
-
+Image Classification demo:
 ![Alt text](/preview/classification_prev1.png) ![Alt text](/preview/classification_prev2.png)
 
 
