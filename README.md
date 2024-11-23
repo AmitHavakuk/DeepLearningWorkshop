@@ -2,6 +2,8 @@ ReadMe
 Demos:
 
 Image Verification (our main goal) demo:
+
+<img src="/preview/verification_prev_1.png" alt="Description" width="200">
 ![Alt text](/preview/verification_prev_1.png) ![Alt text](/preview/verification_prev_2.png)
 
 Image Classification demo:
