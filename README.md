@@ -3,6 +3,7 @@ ReadMe
 Creators: Amit Havakuk and Yaniv Yadgar
 
 Demos:
+We have provided you with a demo folder to play around with.
 
 Image Verification (our main goal) demo:
 
